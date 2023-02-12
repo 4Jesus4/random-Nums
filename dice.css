@@ -1,0 +1,38 @@
+header{
+    font-family: monospace;
+    color: black;
+    font-size: 25px;
+    background-color: #2beaffcd;
+}
+input{
+    font-family: monospace;
+    background-color: black;
+    border-color: #2beaffcd;
+    color: #2beaffcd;   
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+button{
+    font-weight: bold;
+    background-color: black;
+    border-radius: 10px;
+    padding: 5px;
+    border:  2px solid #2beaffcd;
+    color:#2beaffcd;
+}
+div{
+    display: flex;
+    justify-content: space-around;
+    background-color: #383838;
+    border-radius: 5px;
+    color:#2beaffcd;
+    font-size: large;
+    padding: 5px;
+}
+p{
+    font-family: monospace;
+    background-color: black;
+    padding: 5px;
+    border-radius: 10px;
+}
